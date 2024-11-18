@@ -78,7 +78,8 @@ h2 {
 .producto p {
   font-size: 1em;
   color: #666;
-  margin: 5px 0 10px;
+  margin: 5px 10px;
+  height: 30px;
 }
 
 .precio {
@@ -98,6 +99,7 @@ h2 {
   font-size: 1em;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  margin-bottom: 30px;
 }
 
 .boton:hover {
